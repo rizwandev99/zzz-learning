@@ -60,5 +60,5 @@ app.put("/completed", async(req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`app is running on port ${PORT}`)
+    console.log(`app is running on the port ${PORT}`)
 })
